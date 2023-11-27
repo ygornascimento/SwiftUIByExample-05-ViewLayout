@@ -35,6 +35,8 @@ struct HowToControlSpacingAroundIndividualViewsUsingPadding: View {
     }
 }
 
+// Excellent article: https://blog.schurigeln.com/padding-in-swiftui/
+
 #Preview {
     HowToControlSpacingAroundIndividualViewsUsingPadding()
 }
