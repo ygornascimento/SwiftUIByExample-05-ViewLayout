@@ -12,6 +12,7 @@
 		1EC49C652B14EB92003ACA02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EC49C642B14EB92003ACA02 /* Assets.xcassets */; };
 		1EC49C682B14EB92003ACA02 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EC49C672B14EB92003ACA02 /* Preview Assets.xcassets */; };
 		1EC49C6F2B150A71003ACA02 /* HowToControlSpacingAroundIndividualViewsUsingPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C6E2B150A71003ACA02 /* HowToControlSpacingAroundIndividualViewsUsingPadding.swift */; };
+		1EC49C712B1513FD003ACA02 /* HowToProvideRelativeSizesUsingGeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EC49C702B1513FD003ACA02 /* HowToProvideRelativeSizesUsingGeometryReader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		1EC49C642B14EB92003ACA02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1EC49C672B14EB92003ACA02 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1EC49C6E2B150A71003ACA02 /* HowToControlSpacingAroundIndividualViewsUsingPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToControlSpacingAroundIndividualViewsUsingPadding.swift; sourceTree = "<group>"; };
+		1EC49C702B1513FD003ACA02 /* HowToProvideRelativeSizesUsingGeometryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToProvideRelativeSizesUsingGeometryReader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				1EC49C602B14EB8E003ACA02 /* SwiftUIByExample_05_ViewLayoutApp.swift */,
 				1EC49C622B14EB8E003ACA02 /* HowToGiveAViewACustomFrame.swift */,
 				1EC49C6E2B150A71003ACA02 /* HowToControlSpacingAroundIndividualViewsUsingPadding.swift */,
+				1EC49C702B1513FD003ACA02 /* HowToProvideRelativeSizesUsingGeometryReader.swift */,
 				1EC49C642B14EB92003ACA02 /* Assets.xcassets */,
 				1EC49C662B14EB92003ACA02 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				1EC49C632B14EB8E003ACA02 /* HowToGiveAViewACustomFrame.swift in Sources */,
 				1EC49C612B14EB8E003ACA02 /* SwiftUIByExample_05_ViewLayoutApp.swift in Sources */,
+				1EC49C712B1513FD003ACA02 /* HowToProvideRelativeSizesUsingGeometryReader.swift in Sources */,
 				1EC49C6F2B150A71003ACA02 /* HowToControlSpacingAroundIndividualViewsUsingPadding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
