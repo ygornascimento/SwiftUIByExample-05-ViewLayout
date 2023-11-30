@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1E5EB6882B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6872B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift */; };
+		1E5EB68A2B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6892B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift */; };
 		1E6136562B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136552B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift */; };
 		1E6136582B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136572B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift */; };
 		1E61365A2B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136592B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		1E5EB6872B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToCreateViewsInALoopUsingForEach.swift; sourceTree = "<group>"; };
+		1E5EB6892B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToControlLayoutPriorityUsingLayouPriority.swift; sourceTree = "<group>"; };
 		1E6136552B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_AnyView.swift; sourceTree = "<group>"; };
 		1E6136572B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_ViewBuilder.swift; sourceTree = "<group>"; };
 		1E6136592B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_BreakInSmallerViews.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				1E6136572B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift */,
 				1E6136592B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift */,
 				1E5EB6872B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift */,
+				1E5EB6892B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift */,
 				1EC49C642B14EB92003ACA02 /* Assets.xcassets */,
 				1EC49C662B14EB92003ACA02 /* Preview Content */,
 			);
@@ -168,6 +171,7 @@
 				1EC49C752B151777003ACA02 /* HowToReturnDifferentViewTypes.swift in Sources */,
 				1E6136582B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift in Sources */,
 				1E6136562B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift in Sources */,
+				1E5EB68A2B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift in Sources */,
 				1EC49C612B14EB8E003ACA02 /* SwiftUIByExample_05_ViewLayoutApp.swift in Sources */,
 				1EC49C712B1513FD003ACA02 /* HowToProvideRelativeSizesUsingGeometryReader.swift in Sources */,
 				1EC49C6F2B150A71003ACA02 /* HowToControlSpacingAroundIndividualViewsUsingPadding.swift in Sources */,
