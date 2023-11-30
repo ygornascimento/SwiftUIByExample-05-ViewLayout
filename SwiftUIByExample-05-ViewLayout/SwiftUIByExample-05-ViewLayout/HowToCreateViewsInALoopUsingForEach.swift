@@ -63,6 +63,7 @@ struct HowToCreateViewsInALoopUsingForEach: View {
             }
         }
         
+        //Example 4
         VStack {
             ForEach(idResults) { result in
                 Text("Id Result: \(result.score)")
