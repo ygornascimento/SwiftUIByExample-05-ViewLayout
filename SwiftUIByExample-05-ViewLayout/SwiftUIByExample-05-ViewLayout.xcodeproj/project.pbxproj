@@ -14,6 +14,7 @@
 		1E5EB6902B19E203008FD920 /* HowToInsetTheSafeAreaWithCustomContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB68F2B19E203008FD920 /* HowToInsetTheSafeAreaWithCustomContent.swift */; };
 		1E5EB6922B19E593008FD920 /* HowToInsetTheSafeAreaWithCustomContent_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6912B19E593008FD920 /* HowToInsetTheSafeAreaWithCustomContent_2.swift */; };
 		1E5EB6942B19EA56008FD920 /* HowToHideTheHomeIndicatorAndOtherSystemUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6932B19EA56008FD920 /* HowToHideTheHomeIndicatorAndOtherSystemUI.swift */; };
+		1E5EB6962B19EF58008FD920 /* HowToStopSystemGesturesFromInterferingWithYourOwn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6952B19EF58008FD920 /* HowToStopSystemGesturesFromInterferingWithYourOwn.swift */; };
 		1E6136562B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136552B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift */; };
 		1E6136582B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136572B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift */; };
 		1E61365A2B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136592B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift */; };
@@ -35,6 +36,7 @@
 		1E5EB68F2B19E203008FD920 /* HowToInsetTheSafeAreaWithCustomContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToInsetTheSafeAreaWithCustomContent.swift; sourceTree = "<group>"; };
 		1E5EB6912B19E593008FD920 /* HowToInsetTheSafeAreaWithCustomContent_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToInsetTheSafeAreaWithCustomContent_2.swift; sourceTree = "<group>"; };
 		1E5EB6932B19EA56008FD920 /* HowToHideTheHomeIndicatorAndOtherSystemUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToHideTheHomeIndicatorAndOtherSystemUI.swift; sourceTree = "<group>"; };
+		1E5EB6952B19EF58008FD920 /* HowToStopSystemGesturesFromInterferingWithYourOwn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToStopSystemGesturesFromInterferingWithYourOwn.swift; sourceTree = "<group>"; };
 		1E6136552B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_AnyView.swift; sourceTree = "<group>"; };
 		1E6136572B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_ViewBuilder.swift; sourceTree = "<group>"; };
 		1E6136592B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_BreakInSmallerViews.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				1E5EB68F2B19E203008FD920 /* HowToInsetTheSafeAreaWithCustomContent.swift */,
 				1E5EB6912B19E593008FD920 /* HowToInsetTheSafeAreaWithCustomContent_2.swift */,
 				1E5EB6932B19EA56008FD920 /* HowToHideTheHomeIndicatorAndOtherSystemUI.swift */,
+				1E5EB6952B19EF58008FD920 /* HowToStopSystemGesturesFromInterferingWithYourOwn.swift */,
 				1EC49C642B14EB92003ACA02 /* Assets.xcassets */,
 				1EC49C662B14EB92003ACA02 /* Preview Content */,
 			);
@@ -187,6 +190,7 @@
 				1E61365A2B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift in Sources */,
 				1EC49C632B14EB8E003ACA02 /* HowToGiveAViewACustomFrame.swift in Sources */,
 				1E5EB6882B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift in Sources */,
+				1E5EB6962B19EF58008FD920 /* HowToStopSystemGesturesFromInterferingWithYourOwn.swift in Sources */,
 				1EC49C752B151777003ACA02 /* HowToReturnDifferentViewTypes.swift in Sources */,
 				1E6136582B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift in Sources */,
 				1E5EB68C2B195899008FD920 /* HowToMakeTwoViewsTheSameWidthOrHeight.swift in Sources */,

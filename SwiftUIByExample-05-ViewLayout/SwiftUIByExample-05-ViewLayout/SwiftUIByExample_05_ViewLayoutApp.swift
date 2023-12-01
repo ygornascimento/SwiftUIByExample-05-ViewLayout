@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIByExample_05_ViewLayoutApp: App {
     var body: some Scene {
         WindowGroup {
-            HowToHideTheHomeIndicatorAndOtherSystemUI()
+            HowToStopSystemGesturesFromInterferingWithYourOwn()
         }
     }
 }
