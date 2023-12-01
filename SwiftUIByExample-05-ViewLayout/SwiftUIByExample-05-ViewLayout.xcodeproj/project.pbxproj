@@ -10,6 +10,7 @@
 		1E5EB6882B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6872B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift */; };
 		1E5EB68A2B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6892B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift */; };
 		1E5EB68C2B195899008FD920 /* HowToMakeTwoViewsTheSameWidthOrHeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB68B2B195899008FD920 /* HowToMakeTwoViewsTheSameWidthOrHeight.swift */; };
+		1E5EB68E2B19E050008FD920 /* HowToProvideVisualStructureUsingForegroundStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB68D2B19E050008FD920 /* HowToProvideVisualStructureUsingForegroundStyles.swift */; };
 		1E6136562B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136552B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift */; };
 		1E6136582B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136572B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift */; };
 		1E61365A2B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136592B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift */; };
@@ -27,6 +28,7 @@
 		1E5EB6872B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToCreateViewsInALoopUsingForEach.swift; sourceTree = "<group>"; };
 		1E5EB6892B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToControlLayoutPriorityUsingLayouPriority.swift; sourceTree = "<group>"; };
 		1E5EB68B2B195899008FD920 /* HowToMakeTwoViewsTheSameWidthOrHeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToMakeTwoViewsTheSameWidthOrHeight.swift; sourceTree = "<group>"; };
+		1E5EB68D2B19E050008FD920 /* HowToProvideVisualStructureUsingForegroundStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToProvideVisualStructureUsingForegroundStyles.swift; sourceTree = "<group>"; };
 		1E6136552B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_AnyView.swift; sourceTree = "<group>"; };
 		1E6136572B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_ViewBuilder.swift; sourceTree = "<group>"; };
 		1E6136592B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_BreakInSmallerViews.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				1E5EB6872B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift */,
 				1E5EB6892B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift */,
 				1E5EB68B2B195899008FD920 /* HowToMakeTwoViewsTheSameWidthOrHeight.swift */,
+				1E5EB68D2B19E050008FD920 /* HowToProvideVisualStructureUsingForegroundStyles.swift */,
 				1EC49C642B14EB92003ACA02 /* Assets.xcassets */,
 				1EC49C662B14EB92003ACA02 /* Preview Content */,
 			);
@@ -168,6 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1EC49C732B151697003ACA02 /* howToPlaceContentOutsideTheSafeArea.swift in Sources */,
+				1E5EB68E2B19E050008FD920 /* HowToProvideVisualStructureUsingForegroundStyles.swift in Sources */,
 				1E61365A2B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift in Sources */,
 				1EC49C632B14EB8E003ACA02 /* HowToGiveAViewACustomFrame.swift in Sources */,
 				1E5EB6882B194826008FD920 /* HowToCreateViewsInALoopUsingForEach.swift in Sources */,
