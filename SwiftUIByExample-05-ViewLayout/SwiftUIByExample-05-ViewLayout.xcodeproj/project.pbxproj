@@ -17,6 +17,7 @@
 		1E5EB6962B19EF58008FD920 /* HowToStopSystemGesturesFromInterferingWithYourOwn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6952B19EF58008FD920 /* HowToStopSystemGesturesFromInterferingWithYourOwn.swift */; };
 		1E5EB6982B19F55C008FD920 /* HowToDynamicallyChangeBetweenVStackAndHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6972B19F55C008FD920 /* HowToDynamicallyChangeBetweenVStackAndHStack.swift */; };
 		1E5EB69A2B19FA30008FD920 /* HowToDynamicallyChangeBetweenVStackAndHStack_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB6992B19FA30008FD920 /* HowToDynamicallyChangeBetweenVStackAndHStack_2.swift */; };
+		1E5EB69C2B19FE89008FD920 /* HowToCreateACustomLayoutUsingTheLayoutProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5EB69B2B19FE89008FD920 /* HowToCreateACustomLayoutUsingTheLayoutProtocol.swift */; };
 		1E6136562B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136552B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift */; };
 		1E6136582B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136572B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift */; };
 		1E61365A2B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6136592B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift */; };
@@ -41,6 +42,7 @@
 		1E5EB6952B19EF58008FD920 /* HowToStopSystemGesturesFromInterferingWithYourOwn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToStopSystemGesturesFromInterferingWithYourOwn.swift; sourceTree = "<group>"; };
 		1E5EB6972B19F55C008FD920 /* HowToDynamicallyChangeBetweenVStackAndHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToDynamicallyChangeBetweenVStackAndHStack.swift; sourceTree = "<group>"; };
 		1E5EB6992B19FA30008FD920 /* HowToDynamicallyChangeBetweenVStackAndHStack_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToDynamicallyChangeBetweenVStackAndHStack_2.swift; sourceTree = "<group>"; };
+		1E5EB69B2B19FE89008FD920 /* HowToCreateACustomLayoutUsingTheLayoutProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToCreateACustomLayoutUsingTheLayoutProtocol.swift; sourceTree = "<group>"; };
 		1E6136552B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_AnyView.swift; sourceTree = "<group>"; };
 		1E6136572B17F20D00691C3C /* HowToReturnDifferentViewTypes_ViewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_ViewBuilder.swift; sourceTree = "<group>"; };
 		1E6136592B17F2A200691C3C /* HowToReturnDifferentViewTypes_BreakInSmallerViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToReturnDifferentViewTypes_BreakInSmallerViews.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				1E5EB6952B19EF58008FD920 /* HowToStopSystemGesturesFromInterferingWithYourOwn.swift */,
 				1E5EB6972B19F55C008FD920 /* HowToDynamicallyChangeBetweenVStackAndHStack.swift */,
 				1E5EB6992B19FA30008FD920 /* HowToDynamicallyChangeBetweenVStackAndHStack_2.swift */,
+				1E5EB69B2B19FE89008FD920 /* HowToCreateACustomLayoutUsingTheLayoutProtocol.swift */,
 				1EC49C642B14EB92003ACA02 /* Assets.xcassets */,
 				1EC49C662B14EB92003ACA02 /* Preview Content */,
 			);
@@ -205,6 +208,7 @@
 				1E6136562B17EF4000691C3C /* HowToReturnDifferentViewTypes_AnyView.swift in Sources */,
 				1E5EB68A2B1956A9008FD920 /* HowToControlLayoutPriorityUsingLayouPriority.swift in Sources */,
 				1EC49C612B14EB8E003ACA02 /* SwiftUIByExample_05_ViewLayoutApp.swift in Sources */,
+				1E5EB69C2B19FE89008FD920 /* HowToCreateACustomLayoutUsingTheLayoutProtocol.swift in Sources */,
 				1EC49C712B1513FD003ACA02 /* HowToProvideRelativeSizesUsingGeometryReader.swift in Sources */,
 				1EC49C6F2B150A71003ACA02 /* HowToControlSpacingAroundIndividualViewsUsingPadding.swift in Sources */,
 			);
